@@ -1,3 +1,3 @@
 # JK Embedded Consulting
 
-Schedule a meeting: https://calendly.com/jkridner
+Schedule a meeting: [calendly.com/jkridner](https://calendly.com/jkridner)
