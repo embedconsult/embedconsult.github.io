@@ -11,8 +11,9 @@ Jason can provide the following services for you:
 * Develop firmware and applications to demonstrate the interface functionality
 * Work with low-cost fabrication, PCB assembly, enclosure and system assembly shops to provide you with a finished product
 
-Learn more about Jason at:
-* https://linkedin.com/in//jkridner
-* https://twitter.com/jadon
+Learn more about Jason on:
+* [LinkedIn](https://linkedin.com/in//jkridner)
+* [Twitter](https://twitter.com/jadon)
+* [BeagleBoard Forum](https://forum.beagleboard.org/u/jkridner)
 
 Schedule a meeting: [calendly.com/jkridner](https://calendly.com/jkridner)
