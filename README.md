@@ -6,6 +6,7 @@ Jason Kridner has 30 years experience in the embedded systems industry. As 28-ye
   
 Jason can provide the following services for you:
 * Design custom add-on boards for BeagleBoard.org single board computers and microcontroller platforms to meet your interfacing requirements
+* Work with BeagleBoard.org and suppliers to customize standard products
 * Develop firmware and applications to demonstrate the interface functionality
 * Work with low-cost fabrication, PCB assembly, enclosure and system assembly shops to provide you with a finished product
 
