@@ -1,7 +1,3 @@
-# JK Embedded Consulting
-
-## _Provider of customized embedded computing hardware_
-
 Schedule a meeting: [calendly.com/jkridner](https://calendly.com/jkridner)
 
 Jason Kridner has 30 years experience in the embedded systems industry. As 28-year veteran of [Texas Instruments DSP and processor businesses](https://www.ti.com/microcontrollers-mcus-processors/processors/arm-based-processors/overview.html), founder of the [BeagleBoard.org project](https://beagleboard.org/about), and invited speaker at numerous industry events, Jason knows what it takes to build an embedded system from concept to volume production.
