@@ -16,5 +16,3 @@ Learn more about Jason on:
 * [BeagleBoard Forum](https://forum.beagleboard.org/u/jkridner)
 
 Schedule a meeting: [calendly.com/jkridner](https://calendly.com/jkridner)
-
-<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
