@@ -1,3 +1,9 @@
 theme: jekyll-theme-cayman
 title: JK Embedded Consulting
 description: Provider of customized embedded computing hardware solutions
+
+social-network-links:
+  github: jadonk
+  twitter: jadon
+  linkedin: jkridner
+  calendly: jkridner
