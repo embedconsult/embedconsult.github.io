@@ -1,5 +1,7 @@
 Schedule a meeting: [calendly.com/jkridner](https://calendly.com/jkridner)
 
+![image](https://user-images.githubusercontent.com/9018/218166227-af75f41b-cfd8-4462-8f57-f64789c6fe5d.png)
+
 Jason Kridner has 30 years experience in the embedded systems industry. As 28-year veteran of [Texas Instruments DSP and processor businesses](https://www.ti.com/microcontrollers-mcus-processors/processors/arm-based-processors/overview.html), founder of the [BeagleBoard.org project](https://beagleboard.org/about), and invited speaker at numerous industry events, Jason knows what it takes to build an embedded system from concept to volume production.
 
 > With BeagleBoard, I've built a network of professional Linux and embedded systems consultants, putting out the message that you too can make a career out of making technology work for you. Now I'm ["eating my own dogfood" of sorts](https://en.wikipedia.org/wiki/Eating_your_own_dog_food), providing consulting services for people looking to build custom embedded solutions around BeagleBoard.org technology components.
